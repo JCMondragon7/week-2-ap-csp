@@ -41,6 +41,10 @@ chicago_mayor = "Johnson"
 #index slice
 print(chicago_mayor[4])
 #get the s
+#get the "son"
+print(chicago_mayor[1:-2])
+#first number inclusive : second is up to but doesnt include number
+#get john
 
 # # Indexing: Access characters by position (0-based index)
 # print("First character:", phrase[0])  # Output: P
