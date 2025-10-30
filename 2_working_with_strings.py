@@ -37,6 +37,10 @@ print("Is Uppercase?", phrase.isupper())  # Output: False
 # # ----------------------------------------
 # # 3. Indexing and Slicing
 # # ----------------------------------------
+chicago_mayor = "Johnson"
+#index slice
+print(chicago_mayor[4])
+#get the s
 
 # # Indexing: Access characters by position (0-based index)
 # print("First character:", phrase[0])  # Output: P
