@@ -46,6 +46,14 @@ print(chicago_mayor[1:-2])
 #first number inclusive : second is up to but doesnt include number
 #get john
 
+Phrase3 = "Supercagifragilstic"
+#uppercse
+#slifce into diff variables
+#slice cagi alone and porint last letter
+print(Phrase3[5:9])
+print(Phrase3[-1])
+
+
 # # Indexing: Access characters by position (0-based index)
 # print("First character:", phrase[0])  # Output: P
 # print("Last character:", phrase[-1])  # Output: !
