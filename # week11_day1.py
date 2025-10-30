@@ -29,8 +29,9 @@ print(num3 + num4)
 
 #  Step 4: User Input Practice
 # Ask the user two questions and combine answers
-
-
+ans1 = input("How was your day?")
+ans2 = input("Do you like icecream")
+print("thats": ans1 "to hear")
 
 
 # ⚙️ Step 5: Final Challenge (combine it all)
